@@ -1,0 +1,22 @@
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    color: #000;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+body h3 {
+    background-color: #ff9090;
+    font-weight: 1000px;
+    color: #fff;
+    font-size: 24px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body h3 p {
+    background-color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+}

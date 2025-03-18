@@ -1,0 +1,15 @@
+.name {
+    background-color: #ff9090;
+    font-weight: 1000;
+    color: #fff;
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.description {
+    font-size: 30px;
+    font-weight: 500;
+    color: #000;
+    text-align: center;
+}

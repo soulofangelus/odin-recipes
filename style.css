@@ -9,6 +9,7 @@ h1 {
     font-weight: 500;
     background-color: #fff;
     text-align: center;
+    padding: 8px;
 }
 
 .categories {
@@ -31,6 +32,5 @@ h1 {
     text-align: center;
     margin: auto;
     padding: 8px;
-    display: block;
     background-color: #eee;
 }

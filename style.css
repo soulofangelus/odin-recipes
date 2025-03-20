@@ -1,5 +1,10 @@
-h1 {
+body {
+    background: #eee;
     font-family: "Trebuchet MS", sans-serif;
+    width: 800px;
+}
+
+h1 {
     color: #000;
     font-size: 40px;
     font-weight: 500;
